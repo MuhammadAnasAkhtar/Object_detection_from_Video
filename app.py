@@ -179,7 +179,7 @@ demo = gr.Interface(
     outputs=[
         gr.Video(label="Processed Video")
     ],
-    title="@GenAILearniverse Project: Video Object Detection",
+    title=" Video Object Detection",
     description="""
     Upload a video to detect and track objects within it. 
     The application will process the video and draw bounding boxes around detected objects 
